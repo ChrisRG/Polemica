@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Teinte/tei2html.xsl"?>
+<?xml-model href="Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--Odette: 2019-01-28T11:16:20+01:00-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lo 'nfarinato secondo</title>
+        <author>L'Infarinato [Lionardo Salviati]</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL</edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Sorbonne Université, Labex OBVIL</publisher>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : 	« Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CCBY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures, la diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Biblioteca Casanatense, Roma</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <!-- Date de création du texte -->
+        <date when="1588">1588</date>
+      </creation>
+      <langUsage>
+        <language ident="it"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  
+  <text>
+    <body>
+      <head>LO’ NFARINATO SECONDO OVVERO DELLO’NFARINATO ACCADEMICO DELLA Crusca RISPOSTA DEL LIBRO INTITOLATO Replica di Cammillo Pellegrino, etc. NELLA QVAL RISPOSTA SONO incorporate tutte le scritture passate tra detto Pellegrino, e detti Accademici intorno all’Ariosto, e al Tasso.</head>
+      
+        <div xml:id="secondo.1" type="Sezione 1">
+          <p xml:id="secondo.1.dial"><lb/>Dialogo [1]: Credo di far cosa grata, non solo a <name xml:lang="it"
+        type="polemista">Vostra Signoria Illustrissima</name><note place="bottom">[NDE] Marcantonio Carafa (1569–?), nobile napoletano.</note>, ma a buona parte de’ giovani studiosi della volgar poesia, se con brevità possibile chiudo in pochi fogli il ragionamento havuto, molto tempo non ha, dallo eccellentissimo suo fratello<note place="bottom">[NDEC] signor Principe suo fratello <hi rend="i">C, D</hi> : Signor Principe di Stigliano suo fratello <hi rend="i">R1, R2</hi> [NDE] Luigi Carafa (1567–1630), principe di Stigliano, mecenate di vari poeti come Attendolo e Pellegrino; il 29 novembre 1584 sposò Isabella Gonzaga, figlia di Vespasiano.</note>  col signor <name xml:lang="it" type="polemista">Giovan Battista Attendolo</name><note place="bottom">[NDE] Giovan Battista Attendolo (1536–1593), poeta e letterato di famiglia nobile di Capua.</note>, huomo chiarissimo nell’età nostra, così per le lingue et varie dottrine ch’egli possiede, come per lo suo mirabil ingegno. Et farò io ciò tanto più volentieri quanto che in questo brieve discorso (s’io non m’inganno) si verrà almeno in parte a terminar la questione che di continuo si ha, non solo appresso del volgo ma etiandio di huomini gravissimi, di chi habbia conseguito maggior grado d’honore nell’epica poesia, o <name xml:lang="it" type="authority">Lodovico Ariosto</name> o vero <name xml:lang="it" type="polemista">Torquato Tasso</name>. Non già ch’io mi persuada che i poco intendenti habbiano a restarsi della loro ostinatione—</p>
+      <p>[p.2]</p>
+          <p xml:id="secondo.1.cru">Crusca [1]: Ha il torto a dir villania all’universale e alla più parte degli scienziati.</p>
+          <p xml:id="secondo.1.rep">>Replica [1]: Sotto il nome di poco intendenti io non intesi giamai di comprendere i letterati di conto; ma poiché questi signori <name xml:lang="it" type="polemista">Academici</name> vogliono comprendervisi contro mia voluntà, io non so altro che farci, se non dire (con lor pace) che in questo particolare sieno poco intendenti.</p>
+          <p xml:id="secondo.1.infsec">Infarinato [1]: Leggansi le parole del <title xml:lang="it">Dialogo</title> del <name xml:lang="it" type="polemista">Pellegrino</name>, così le precedenti a questa sua prima replica, come quelle che seguono immantenente, e vedrassi che chiama ostinati quelli che non acconsentiranno alle sue ragioni che <name xml:lang="it" type="polemista">Torquato Tasso</name> abbia ottenuto maggiore onore che <name xml:lang="it" type="authority">Lodovico Ariosto</name> nell’epica poesia. E perché gli <name xml:lang="it" type="polemista">Accademici della Crusca</name> hanno per fermo che tra gli scienziati la maggior parte, e fuor degli scienziati tutto ‘l rimanente delle persone, da esso suo <title xml:lang="it">Dialogo</title> fosser per rimanere (e sien rimasi) non persuasi, si dolsero che egli la maggior parte de’ dotti e tutti i non dotti huomini, per lo non cedere a’ suoi discorsi, chiamasse ostinati in quella maniera. Di che, in vece di fare scusa, nomina gli <name xml:lang="it" type="polemista">Accademici</name> poco intendenti.</p>
+      </div>
+      
+      <div xml:id="secondo.2" type="Sezione 2">
+        <p xml:id="secondo.2.dial">Dialogo [2]: —ma basterammi che i begli ingegni si lascino vincere da ragioni et autorità non men vere che chiare. Né mi curerò io, ciò facendo, di dispiacere al signore <name xml:lang="it" type="polemista">Attendolo</name>, il quale di certo non havrà caro che il parer suo, intorno a questo particolare, detto a caso et a compiacenza del signor <name xml:lang="it" type="polemista">Principe</name> suo padrone, si palesi per me al mondo; nol sapendo io ragionar poi né descriverlo con quella efficacia et così appunto come a lui uscì della [p.3] bocca; rendendomi certo, se non di giovare altrui, almeno porger diletto a <name xml:lang="it" type="polemista">Vostra Signoria Illustrissima</name> per un’hora, in servigio della quale (benché in vano io brami egual valore al desiderio che ognora mi sprona ad impiegarmici) un giorno, quando che sia, v’adoprerò tutto quello che le forze del mio debole ingegno potranno.</p>
+       <p>Dico, dunque, per venire al fatto che, havendo io havuto carico dal padre <name xml:lang="it" type="authority">Don Benedetto dell’Uva</name><note place="bottom">[NDE] Benedetto dell’Uva (1540–1582), poeta e padre benedettino di famiglia nobile di Capua. Si veda F. De Bernardinis, <hi rend="i">Dell’Uva, Benedetto</hi> In: <hi rend="i">Dizionario Biografico degli Italiani</hi>, 38, 1990.</note>, singolar mio amico et gentilissimo poeta del secol nostro, di presentare al signor <name xml:lang="it" type="polemista">Principe di Stigliano</name> la bellissima operetta del <title xml:lang="it">Doroteo</title><note place="bottom"><hi rend="i">Il Doroteo di don Benedetto dell’Uva</hi> (Firenze: Bartolomeo Sermartelli, 1582). [NDE] Poema in ottava rima che racconta la tentazione erotica del giovane Alisio e il suo ammaestramento morale sotto l’anziano Doroteo.</note> in ottava rima, con la quale si accompagnavano tutte l’altre in simile stile dal detto padre composte, stampate et raccolte in un solo volume, per dar fine alla bisogna cavalcai di <placeName xml:lang="it">Capua</placeName> alla <placeName xml:lang="it">Rocca di Mondragone</placeName>, dove a quel tempo il signor <name xml:lang="it" type="polemista">Principe</name> si ritrovava; a cui in brevità, poi fatte le dovute cirimonie, presentai dett’opra; la quale havendo quel <name xml:lang="it" type="polemista">Signore</name> con faccia ridente ricevuta, rivoltosi all’<name xml:lang="it" type="polemista">Attendolo</name> ch’ivi presente era, così incominciò:</p>
+        <p rend="indent">CARRAFA: Che vi pare, Signor <name xml:lang="it" type="polemista">Attendolo</name>, del dono che ne fa il padre <name xml:lang="it" type="authority">Don Benedetto</name>?</p>
+        <p rend="indent">ATTENDOLO: Il dono, Signor mio, se vogliamo haver riguardo alle vigilie et fatiche sofferte da quel padre per dargli fregi et arricchirlo delle più rare et nuove bellezze di poesia, non è di picciol valore, accompagnato poi da altri poemi sì dolci di stile et sì pietosi di soggetto, da’ quali può l’autore haver non vana speranza di viver per sempre, se ben non agguaglia i meriti della Eccellenza Vostra, dirò almeno che sia bene in lei collocato che saprà far ottimo giudicio di quel che vaglia.</p>
+        <p rend="indent">CARRAFA: Io non ho ancor letto né <title xml:lang="it">Il martirio delle cinque Vergini</title><note place="bottom"><hi rend="i">Le vergini prudenti di don Benedetto dell’Uva monaco Casinense</hi> (Firenze: Bartolomeo Sermartelli, 1582). [NDE] Poema epico sacro e didascalico che narra le vite delle sante Agata, Lucia, Agnese, Giustina e Caterina.</note> alla signora avola<persName> Felice Orsina</persName>,<note place="bottom">[NDE] <hi rend="i">Le vergini prudenti</hi> fu dedicato a Felice Orsina, vicereina di Sicilia e nonna di Luigi Carafa.</note> né <title xml:lang="it">Il pensier della morte</title><note place="bottom"><hi rend="i">Il pensier della morte di don Benedetto dell’Uva monaco Casinense</hi> (Firenze: Bernardo Sermartelli, 1582).</note> alla signora zia Donna<persName> Geronima Colonna</persName><note place="bottom">[NDE] <hi rend="i">Il pensiero della morte</hi> fu dedicato a Geronima Colonna, duchessa di Montelione e zia di Luigi Carafa.</note>; ma il <title xml:lang="it">Doroteo</title>, a me dedicato, che scritto a penna lessi già i mesi a dietro, pare a me che nel suo picciol corpo nasconda un’anima grande. Ha egli ne’ suoi pochi versi concetti altissimi, vestiti di così belle et nuove frasi del dire in rima, che d’altezza et di [p.4] novità di stile si può dir che non cede al <name xml:lang="it" type="polemista">Tasso figliuolo</name>.</p>
+        <p rend="indent">ATTENDOLO: Poteva l’Eccellenza vostra dire al <name xml:lang="it" type="authority">Tasso padre</name> et non al <name xml:lang="it" type="polemista">Tasso figliuolo</name>, poi che lo stile del Padre Don <name xml:lang="it" type="authority">Benedetto</name>, per la sua dolcezza, ha più somiglianza con quel di <name xml:lang="it" type="authority">Bernardo</name> che di <name xml:lang="it" type="polemista">Torquato Tasso</name>. Ma ella ha così detto forse perché <name xml:lang="it" type="polemista">il figliuolo</name> ha superato <name xml:lang="it" type="authority">il padre</name> così nella lira, come nella tromba.</p>
+        <p rend="indent">CARRAFA:Come nella tromba? Dunque a messer <name xml:lang="it" type="authority">Bernardo</name> può anco darsi il nome di epico poeta?</p>
+        <p rend="indent">ATTENDOLO: Signor sì, perché no? Non ha egli cantate <title xml:lang="it">l’arme di Amadigi</title>?<note place="bottom">[NDE] <hi rend="i">L’Amadigi</hi> di Bernardo Tasso, un poema epico-cavalleresco in ottava rima ispirato al poema spagnolo <hi rend="i">Amadís de Gaula</hi>. Fu stampato per la prima volta a Venezia nel 1560 (Gabriel Giolito de’ Ferrari) e ristampato altre due volte nel 1581 e nel 1583 sempre a Venezia (Fabio e Agostino Zoppini).</note></p>
+        <p rend="indent">CARRAFA: Sì, ma io havrei creduto che, havendo egli ordito <title xml:lang="it">il suo poema</title> sopra un’historia del tutto vana, et riempiutolo di tante digressioni lontane in tutto dalla prima attione, anzi imitato attioni diverse et di più persone, che perciò come sprezzator de i precetti d’<name xml:lang="it" type="authority">Aristotile</name> nella costitution della favola, egli non fosse degno di questo nome.</p>
+        <p xml:id="secondo.2.cru">Crusca [2]: Per niuna di queste tre ragioni non può perdere il titolo d’eroico poeta.</p>
+        <p xml:id="secondo.2.rep">Replica [2]: Per ognuna di queste tre ragioni altri può perdere il titolo se non di eroico poeta, di buono eroico poeta. Così si è detto nel <title xml:lang="it">Dialogo</title> et si dirà di nuovo al suo luogo.</p>
+        <p xml:id="secondo.2.infsec">Infarinato [2]: Le parole del <title xml:lang="it">Dialogo</title> sono queste: «<quote xml:lang="it">che egli</quote> (favella di <name xml:lang="it" type="authority">Bernardo Tasso</name>) <quote xml:lang="it">non fosse degno di questo nome</quote>», cioè d’epico poeta, e per <hi rend="i">epico</hi> intende <hi rend="i">eroico</hi>. La <name xml:lang="it" type="polemista">Crusca</name> gliele negò, ed esso replica: «<quote xml:lang="it">se non d’eroico Poeta, di buono eroico poeta</quote>». Dove correggendosi liberamente, merita commendazione.</p>
+      </div>
+
+    </body>
+  </text>
+</TEI>
