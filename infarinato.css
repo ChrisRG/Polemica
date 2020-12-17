@@ -1,0 +1,5 @@
+div .speaker {
+    display: flex;
+    justify-content: center;
+    text-indent: 0em;
+}
